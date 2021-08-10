@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', arial, sans-serif;
+}
+.container{
+    margin: 0;
+    padding: 0;
+    /* background-color: #cdcdcd; */
+    text-align: center;
+}
+.about{
+    text-align: left;
+}
+.cake-png{
+    float: none;
+}
+.dv-img2{
+    float: none;
+    width: 200px;
+    height: 300px;
+}
+.monster{
+    float: none;
+}
